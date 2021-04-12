@@ -1,0 +1,1 @@
+export const statusOk = 200;
